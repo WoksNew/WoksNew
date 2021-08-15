@@ -6,4 +6,4 @@
 
 ## Skills
 
-![Wpks](https://img.shields.io/static/v1?label=Html&message=asd&color=#ffff)
+
