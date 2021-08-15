@@ -6,4 +6,8 @@
 
 ## Skills
 
+![Html](https://img.shields.io/static/v1?label=Html&message=asd&color#566bff)<br>
+![Css](https://img.shields.io/static/v1?label=Css&message=asd&color=#566bff)<br>
+![JavaScript](https://img.shields.io/static/v1?label=JavaScript&message=asd&color=#566bff)<br> ### Learning...
+
 
