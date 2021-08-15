@@ -3,5 +3,3 @@
 #### I want to help people with their Problems
 
 ### I'm a new Programmer 
-
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
