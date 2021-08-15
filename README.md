@@ -1,4 +1,4 @@
-<h1 align="center">I'm Woks</h1>
+<h1 align="center">I'm Woks 👋</h1>
 <h3 align="center">I want to help people with programming</h3>
 
 - 🔭 I’m currently working on [Learn By Learning](https://github.com/Learn-by-learning)
